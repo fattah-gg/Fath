@@ -1,0 +1,5 @@
+/project-folder
+│
+├── index.html      (Beranda)
+├── gambar.html     (Halaman Gambar)
+└── tentang.html    (Halaman Tentang)
